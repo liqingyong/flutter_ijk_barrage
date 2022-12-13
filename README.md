@@ -13,9 +13,9 @@ dependencies:
 ```
 
 ![Image](images/Screenshot_20221213.jpg)
+下载 [云聚](apps/cloud_gather.apk)
 
 ## [Example 示例](https://github.com/liqingyong/flutter_ijk_barrage/example)
-
 ```
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
