@@ -1,0 +1,4 @@
+#Mon Dec 12 22:46:31 CST 2022
+base.0=F\:\\FlutterWork\\flutter_ijk_barrage\\example\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

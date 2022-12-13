@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml:1:1-3:12
+	package
+		ADDED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml:1:11-42
+		INJECTED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml:1:1-3:12
+uses-sdk
+INJECTED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml
+INJECTED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml
+INJECTED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml
+INJECTED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml
+		ADDED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml
+		ADDED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter-sdk\flutter-3.3.2\.pub-cache\git\fijkplayer-e8e4f8bdbb4691a2f87bca3d6a43862fe6a94a35\android\src\main\AndroidManifest.xml
