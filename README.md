@@ -12,6 +12,8 @@ dependencies:
       url: https://github.com/liqingyong/flutter_ijk_barrage.git
 ```
 
+![Image](images/Screenshot_20221213.jpg)
+
 ## [Example 示例](https://github.com/liqingyong/flutter_ijk_barrage/example)
 
 ```
