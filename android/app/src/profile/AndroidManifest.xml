@@ -1,0 +1,24 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.eternity.flutter_ijk_barrage">
+    <!-- The INTERNET permission is required for development. Specifically,
+         the Flutter tool needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <!--增加网络访问权限-->
+    <!--//访问电话状态-->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!--//允许全部网络访问-->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!--//获取网络信息状态-->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!--//获取当前WiFi接入的状态以及WLAN热点的信息-->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <!--存储权限-->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <!--屏幕常亮-->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+</manifest>
